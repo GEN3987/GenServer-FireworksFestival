@@ -1,1 +1,1 @@
-# GenServer-FireworksFestival
+# GenServer-how-to-join-jpn
